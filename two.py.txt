@@ -1,0 +1,5 @@
+#add any two nos from user
+n=int(input("enter no"))
+m=int(input("enter no"))
+c=n+m
+print("ans",c)
